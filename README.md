@@ -34,5 +34,5 @@ In this task, we create a report dashboard using Google Data Studio:
 
 ## Additional Notes
 
-- Pay attention to proper formatting and apply appropriate conditional formatting color scales to the final organized data source sheet.
+- If you encounter any issues opening the Excel files, please refer to the provided PDF file for viewing the assignment.
 
